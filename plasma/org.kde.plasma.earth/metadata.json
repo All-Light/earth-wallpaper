@@ -1,0 +1,16 @@
+{
+  "KPlugin": {
+    "Id": "org.kde.plasma.earth",
+    "Name": "Earth wallpaper",
+    "Description": "Native GPU Earth wallpaper with live sunlight, Moon geometry and satellite clouds; no browser required.",
+    "Version": "2.0.0",
+    "License": "MIT",
+    "Authors": [
+      {
+        "Name": "Earth wallpaper contributors"
+      }
+    ],
+    "Category": "Earth & Space"
+  },
+  "KPackageStructure": "Plasma/Wallpaper"
+}

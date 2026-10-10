@@ -1,0 +1,11 @@
+/tmp/
+/work/
+/node_modules/
+/dist/
+/output/*
+!/output/native-earth.png
+/test-results/
+/playwright-report/
+.env
+.env.*
+*.log

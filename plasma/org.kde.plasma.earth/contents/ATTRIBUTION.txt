@@ -1,0 +1,5 @@
+NASA Blue Marble: Next Generation surface map; NASA Black Marble 2016 night lights. NASA imagery is public domain unless stated otherwise.
+Moon: NASA SVS / Ernie Wright, CGI Moon Kit, LROC 2025 color map.
+Clouds and ocean mask: Live Cloud Maps (matteason/live-cloud-maps), CC0. Contains modified EUMETSAT data. Global cloud feed updates approximately every three hours; polar coverage is estimated by mirroring.
+Astronomy Engine: Don Cross, MIT license; see licenses/astronomy-engine.txt.
+Surface/night lights are static composites; only the cloud feed is refreshed.
